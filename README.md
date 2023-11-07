@@ -14,3 +14,5 @@ repo to hold the best quotes from our dearest friend.
   sakhib: \<full-on statement\>, you know?*<br>*<br>
 - *before anything he does*<br>
   sakhib: suyetu navesti ohota!*<br>*<br>
+- *sakhib is asked to do something*<br>
+  sakhib: okey, prinyato.<br><br>
