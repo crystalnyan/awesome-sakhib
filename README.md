@@ -19,6 +19,10 @@ repo to hold the best quotes from our dearest friend.
 - sakhib: ya ebal v rot etogo sayta nahuy<br><br>
 - sakhib: odobryayu<br><br>
 - sakhib: xz atak<br><br>
+- sakhib: ato goloden kak pustoy doker konteyner<br><br>
+- sakhib: u sleyvov ne bivayet admin privelegii<br><br>
+- sakhib: chisto radi izdevatelstvo<br><br>
+- sakhib: komp totalno ohuyel<br><br>
 
 ## Contributors
 @crystalnyan, @phoenixifier, and CryPTON.
