@@ -15,4 +15,10 @@ repo to hold the best quotes from our dearest friend.
 - *before anything he does*<br>
   sakhib: suyetu navesti ohota!*<br>*<br>
 - *sakhib is asked to do something*<br>
-  sakhib: okey, prinyato.<br><br>
+  sakhib: okey, prinyato<br><br>
+- sakhib: ya ebal v rot etogo sayta nahuy<br><br>
+- sakhib: odobryayu<br><br>
+- sakhib: xz atak<br><br>
+
+## Contributors
+@crystalnyan, @phoenixifier, and CryPTON.
