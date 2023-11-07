@@ -26,4 +26,4 @@ repo to hold the best quotes from our dearest friend.
 - sakhib: bozhechki koshechki<br><br>
 
 ## Contributors
-@crystalnyan, @phoenixifier, and CryPTON.
+@crystalnyan, @phoenixifier, CryPTON, and @shakhzodkudratov.
