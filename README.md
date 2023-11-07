@@ -19,6 +19,7 @@ repo to hold the best quotes from our dearest friend.
 - sakhib: ya ebal v rot etogo sayta nahuy<br><br>
 - sakhib: odobryayu<br><br>
 - sakhib: xz atak<br><br>
+- sakhib: bozhechki koshechki<br><br>
 
 ## Contributors
 @crystalnyan, @phoenixifier, and CryPTON.
