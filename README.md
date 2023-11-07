@@ -23,6 +23,7 @@ repo to hold the best quotes from our dearest friend.
 - sakhib: u sleyvov ne bivayet admin privelegii<br><br>
 - sakhib: chisto radi izdevatelstvo<br><br>
 - sakhib: komp totalno ohuyel<br><br>
+- sakhib: bozhechki koshechki<br><br>
 
 ## Contributors
-@crystalnyan, @phoenixifier, and CryPTON.
+@crystalnyan, @phoenixifier, CryPTON, and @shakhzodkudratov.
