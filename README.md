@@ -24,6 +24,8 @@ repo to hold the best quotes from our dearest friend.
 - sakhib: chisto radi izdevatelstvo<br><br>
 - sakhib: komp totalno ohuyel<br><br>
 - sakhib: bozhechki koshechki<br><br>
+- sakhib: gde moy taksi?<br><br>
+- sakhib: prodayu myaso<br><br>
 
 ## Contributors
 @crystalnyan, @phoenixifier, CryPTON, and @shakhzodkudratov.
