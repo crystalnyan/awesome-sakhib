@@ -16,16 +16,22 @@ repo to hold the best quotes from our dearest friend.
   sakhib: suyetu navesti ohota!*<br>*<br>
 - *sakhib is asked to do something*<br>
   sakhib: okey, prinyato<br><br>
-- sakhib: ya ebal v rot etogo sayta nahuy<br><br>
+- sakhib: ya eb@l v rot etogo sayta n@huy<br><br>
 - sakhib: odobryayu<br><br>
 - sakhib: xz atak<br><br>
 - sakhib: ato goloden kak pustoy doker konteyner<br><br>
 - sakhib: u sleyvov ne bivayet admin privelegii<br><br>
 - sakhib: chisto radi izdevatelstvo<br><br>
-- sakhib: komp totalno ohuyel<br><br>
+- sakhib: komp totalno 0huyel<br><br>
 - sakhib: bozhechki koshechki<br><br>
+- sakhib: hmmmm<br><br>
+- sakhib: movlono<br><br>
+- sakhib: viydi a potom perezaydi na komnatu<br><br>
+
+### Dota-related
 - sakhib: gde moy taksi?<br><br>
 - sakhib: prodayu myaso<br><br>
+- sakhib: udar s trimya shlyuh@mi i pizd@<br><br>
 
 ## Contributors
-@crystalnyan, @phoenixifier, CryPTON, and @shakhzodkudratov.
+@crystalnyan, @phoenixifier, CryPTON, @shakhzodkudratov, and @yetimdasturchi.
