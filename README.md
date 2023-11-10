@@ -27,6 +27,7 @@ repo to hold the best quotes from our dearest friend.
 - sakhib: hmmmm<br><br>
 - sakhib: movlono<br><br>
 - sakhib: viydi a potom perezaydi na komnatu<br><br>
+- sakhib: siganskie fokusi<br><br>
 
 ### Dota-related
 - sakhib: gde moy taksi?<br><br>
