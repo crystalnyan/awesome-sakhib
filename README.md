@@ -30,6 +30,11 @@ repo to hold the best quotes from our dearest friend.
 - sakhib: siganskie fokusi<br><br>
 - sakhib: mazza <br><br>
 - sakhib: ravnovesniki <br><br>
+- nyan: *asks sakhib to bring Insti medication from drug store* <br>
+  sakhib: *thinks she said Insta??* <br>
+  sakhib: *makes Facetime call from drug store and gives phone to seller* <br>
+  nyan: *looking at the seller* 👁️ 👄 👁️ <br>
+  seller: *looking at nyan* 👁️ 👄 👁️ <br><br>
 
 ### Dota-related
 - sakhib: gde moy taksi?<br><br>
