@@ -35,6 +35,9 @@ repo to hold the best quotes from our dearest friend.
   sakhib: *makes Facetime call from drug store and gives phone to seller* <br>
   nyan: *looking at the seller* 👁️ 👄 👁️ <br>
   seller: *looking at nyan* 👁️ 👄 👁️ <br><br>
+- sakhib: voobshemto
+
+
 
 ### Dota-related
 - sakhib: gde moy taksi?<br><br>
