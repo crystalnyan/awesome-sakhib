@@ -36,6 +36,7 @@ repo to hold the best quotes from our dearest friend.
   nyan: *looking at the seller* 👁️ 👄 👁️ <br>
   seller: *looking at nyan* 👁️ 👄 👁️ <br><br>
 - sakhib: voobshemto
+- sakhib: STAK POINTEROM V SISHARPE *angry noises*
 
 
 
