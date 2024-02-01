@@ -35,8 +35,9 @@ repo to hold the best quotes from our dearest friend.
   sakhib: *makes Facetime call from drug store and gives phone to seller* <br>
   nyan: *looking at the seller* 👁️ 👄 👁️ <br>
   seller: *looking at nyan* 👁️ 👄 👁️ <br><br>
-- sakhib: voobshemto
-- sakhib: STAK POINTEROM V SISHARPE *angry noises*
+- sakhib: voobshemto <br><br>
+- sakhib: STAK POINTEROM V SISHARPE \*angry noises\* <br><br>
+- sakhib: nado ubolshit kolichestvo sobak <br><br>
 
 
 
